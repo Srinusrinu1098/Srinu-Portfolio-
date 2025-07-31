@@ -1,6 +1,6 @@
 import React from "react";
 import MenuBar from "../MenuBar/MenuBar";
-import { ImageSwiper } from "@/components/ui/imageswiper";
+import { ImageSwiper } from "@/components/ui/Imageswiper";
 import { ImageSwiper1 } from "@/components/ui/imageswiper1";
 
 function Certificates() {
