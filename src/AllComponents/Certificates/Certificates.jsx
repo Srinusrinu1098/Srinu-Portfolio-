@@ -8,7 +8,7 @@ function Certificates() {
     {
       id: 1,
       imageUrl: "/html.png",
-      title: "HTNL CSS BOOTSTRAP",
+      title: "HTML CSS BOOTSTRAP",
     },
     {
       id: 2,
